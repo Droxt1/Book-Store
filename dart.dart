@@ -61,7 +61,7 @@ class LibraryManager{
 
     }
     else if(ch==4){
-      UpdateExsistingBook();
+      UpdateExistingBook();
     }
     else if(ch==5){
       DeleteBook();
@@ -148,7 +148,7 @@ class LibraryManager{
 
 
 
-      void UpdateExsistingBook(){
+      void UpdateExistingBook(){
         print("Enter book name: ");
         book = stdin.readLineSync()!;
         for(var i=0; i<_b1.length; i++){
