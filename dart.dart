@@ -6,7 +6,7 @@ import 'dart:mirrors';
 
 void main() {
    while(true){
-    print("ـــــــــــــــــــــــــــــــــــــــــ");
+    print("ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ");
     print('Welcome To The Library Management System\n' );
     
     LibraryManager();
