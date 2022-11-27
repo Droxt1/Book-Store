@@ -168,12 +168,6 @@ class LibraryManager{
         }
 
       }
-      
-      
-      
-      
-      
-      
       }
      
 
